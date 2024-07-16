@@ -1,0 +1,8 @@
+repeat.txt
+demo.ipynb
+**/__pycache__/
+**/*.eps
+**/*.png
+**/*.pdf
+venv
+trainer.log
