@@ -1,5 +1,9 @@
 # LogREAD #
 
+[**LogREAD: Log-based Real-time Anomaly Detection Through Online Continual Learning**](https://drive.google.com/file/d/1eJEOcIgjBD7CkGiE_FhOQLfOnfWCBYgg/view?usp=sharing)
+
+![overview](overview.png)
+
 ## Install dependencies ##
 ```
 pip install -r requirements.txt

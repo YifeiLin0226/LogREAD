@@ -2,7 +2,7 @@ repeat.txt
 demo.ipynb
 **/__pycache__/
 **/*.eps
-**/*.png
+# **/*.png
 **/*.pdf
 venv
 trainer.log
